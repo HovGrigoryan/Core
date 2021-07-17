@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac26faaf-208c-4ee9-a3d7-b62cb612ee4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xnv5y4i5pZvCoYEfpD7F6bxefo" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="interview.bubblesort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hov\IdeaProjects\Javanew\src" />
+      <recent name="C:\Users\Hov\IdeaProjects\Javanew\src\BracechekerGnun" />
+      <recent name="C:\Users\Hov\IdeaProjects\Javanew\src\chapter13\ioexamplekaren" />
+      <recent name="C:\Users\Hov\IdeaProjects\Javanew\src\chapter13\io" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Bubblesort1">
+    <configuration name="Bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.bubblesort.Bubblesort" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.bubblesort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bubblesort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.bubblesort.Bubblesort1" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.bubblesort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClassDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7continue.example1.InnerClassDemo" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7continue.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.Merge" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.SelectionSort" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.insertionSort.insertionSort" />
+      <module name="Javanew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.insertionSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InnerClassDemo" />
+      <item itemvalue="Application.Bubblesort1" />
+      <item itemvalue="Application.Bubblesort" />
+      <item itemvalue="Application.Merge" />
+      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="Application.insertionSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bubblesort1" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.insertionSort" />
+        <item itemvalue="Application.Bubblesort" />
+        <item itemvalue="Application.Merge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac26faaf-208c-4ee9-a3d7-b62cb612ee4e" name="Default Changelist" comment="" />
+      <created>1581694493542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581694493542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1619350019023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1619350019023" />
+    <state x="445" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1619357959203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1619357959203" />
+    <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1618948071621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618948071621" />
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom" timestamp="1619730454424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619730454424" />
+    <state width="1323" height="152" key="GridCell.Tab.0.center" timestamp="1619730454419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619730454419" />
+    <state width="1323" height="152" key="GridCell.Tab.0.left" timestamp="1619730454419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619730454419" />
+    <state width="1323" height="152" key="GridCell.Tab.0.right" timestamp="1619730454419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619730454419" />
+    <state width="1323" height="152" key="GridCell.Tab.1.bottom" timestamp="1619730454424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619730454424" />
+    <state width="1323" height="152" key="GridCell.Tab.1.center" timestamp="1619730454424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619730454424" />
+    <state width="1323" height="152" key="GridCell.Tab.1.left" timestamp="1619730454424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619730454424" />
+    <state width="1323" height="152" key="GridCell.Tab.1.right" timestamp="1619730454424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="152" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619730454424" />
+    <state x="390" y="120" width="585" height="488" key="find.popup" timestamp="1618948079038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="120" width="585" height="488" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1618948079038" />
+    <state x="65" y="68" key="new project wizard" timestamp="1614119627145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1614119627145" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/example/Homework.java</url>
+          <line>3</line>
+          <properties class="example.Homework" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/againtrying/FirstTry.java</url>
+          <line>3</line>
+          <properties class="againtrying.FirstTry">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/TwoDAgain.java</url>
+          <line>3</line>
+          <properties class="homework.massiv.TwoDAgain" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples1.java</url>
+          <line>3</line>
+          <properties class="array.ArrayExamples1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples2.java</url>
+          <line>3</line>
+          <properties class="array.ArrayExamples2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples3.java</url>
+          <line>3</line>
+          <properties class="array.ArrayExamples3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/While.java</url>
+          <line>3</line>
+          <properties class="homework.chapter5.While" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/ForEach.java</url>
+          <line>3</line>
+          <properties class="homework.chapter5.ForEach" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hometask/Task1_1.java</url>
+          <line>3</line>
+          <properties class="hometask.Task1_1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hometask/Task2.java</url>
+          <line>3</line>
+          <properties class="hometask.Task2" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hometask/Task5.java</url>
+          <line>3</line>
+          <properties class="hometask.Task5" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter6/BoxTest3.java</url>
+          <line>3</line>
+          <properties class="chapter6.BoxTest3" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrayutil/ArrayUtilTest.java</url>
+          <line>5</line>
+          <properties class="arrayutil.ArrayUtilTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hometask/CharArrayTest.java</url>
+          <line>3</line>
+          <properties class="hometask.CharArrayTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter6/konstructor/BoxTest.java</url>
+          <line>3</line>
+          <properties class="chapter6.konstructor.BoxTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter6/stack/Stack.java</url>
+          <line>18</line>
+          <properties class="chapter6.stack.Stack" method="pop">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hometask/CharArray.java</url>
+          <line>78</line>
+          <properties class="hometask.CharArray" method="bobThere">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter6/homework/dynamicArray/DynamicArray.java</url>
+          <line>113</line>
+          <properties class="chapter6.homework.dynamicArray.DynamicArray" method="subArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example2/BoxTest.java</url>
+          <line>5</line>
+          <properties class="chapter7.examples.example2.BoxTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example3/PassOb.java</url>
+          <line>3</line>
+          <properties class="chapter7.examples.example3.PassOb" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example3/Test.java</url>
+          <line>10</line>
+          <properties class="chapter7.examples.example3.Test" method="equals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example4/Box.java</url>
+          <line>30</line>
+          <properties class="chapter7.examples.example4.Box" method="volume">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example4/Box.java</url>
+          <line>7</line>
+          <properties class="chapter7.examples.example4.Box" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example5/Test.java</url>
+          <line>4</line>
+          <properties class="chapter7.examples.example5.Test" method="meth">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example6/Test.java</url>
+          <line>4</line>
+          <properties class="chapter7.examples.example6.Test" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example6/Test.java</url>
+          <line>8</line>
+          <properties class="chapter7.examples.example6.Test" method="meth">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/Factorial.java</url>
+          <line>3</line>
+          <properties class="chapter7.examples.example8rekursia.Factorial" method="fact">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example1/OverLoadDemo.java</url>
+          <line>12</line>
+          <properties class="chapter7.examples.example1.OverLoadDemo" method="test">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/RecTest.java</url>
+          <line>9</line>
+          <properties class="chapter7.examples.example8rekursia.twoexamplerekuria.RecTest" method="printArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example10static/UseStatic.java</url>
+          <line>6</line>
+          <properties class="chapter7.examples.example10static.UseStatic" method="meth">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/homework/BraceChekerTest.java</url>
+          <line>3</line>
+          <properties class="chapter7.examples.homework.BraceChekerTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/Student.java</url>
+          <line>8</line>
+          <properties class="chapter7continue.homeworkexample.Student" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/Student.java</url>
+          <line>20</line>
+          <properties class="chapter7continue.homeworkexample.Student" method="getName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/Student.java</url>
+          <line>23</line>
+          <properties class="chapter7continue.homeworkexample.Student" method="setName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/Student.java</url>
+          <line>16</line>
+          <properties class="chapter7continue.homeworkexample.Student" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/DynamicArrayForBook.java</url>
+          <line>9</line>
+          <properties class="chapter7continue.homework.library.DynamicArrayForBook" method="add">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/Book.java</url>
+          <line>8</line>
+          <properties class="chapter7continue.homework.library.Book" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/LessonStorage.java</url>
+          <line>40</line>
+          <properties class="chapter7continue.homework.library.educationCenter.LessonStorage" method="getByName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/StudentStorage.java</url>
+          <line>57</line>
+          <properties class="chapter7continue.homework.library.educationCenter.StudentStorage" method="getBylesson">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/EducationCenter.java</url>
+          <line>56</line>
+          <properties class="chapter7continue.homework.library.educationCenter.EducationCenter" method="studentBylessonName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter8examples/example3super/Box.java</url>
+          <line>30</line>
+          <properties class="chapter8examples.example3super.Box" method="volume">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter10/MethNesTry6.java</url>
+          <line>3</line>
+          <properties class="chapter10.MethNesTry6" method="nesttry">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter14/example3/Stats.java</url>
+          <line>11</line>
+          <properties class="chapter14.example3.Stats" method="average">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/library1/DataStorage.java</url>
+          <line>52</line>
+          <properties class="chapter7continue.homework.library.library1.DataStorage" method="deleteByIndex">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>37</line>
+          <properties class="chapter11.example6.Synch" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>6</line>
+          <properties class="chapter11.example6.Callme" method="call">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>29</line>
+          <properties class="chapter11.example6.Caller" method="run">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>22</line>
+          <properties class="chapter11.example6.Caller" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>6</line>
+          <properties class="chapter11.example9.Q" method="get">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>20</line>
+          <properties class="chapter11.example9.Q" method="put">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>63</line>
+          <properties class="chapter11.example9.PCFixed" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrayutil/ArrayUtil1.java</url>
+          <line>3</line>
+          <properties class="arrayutil.ArrayUtil1" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/example/ForTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/TheFirst.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/TheFirst.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/TheFirst.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/TheFirst.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/TheFirst.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/Two.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/TwoDAgain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/TwoDAgain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/TwoDAgain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/massiv/Matrix.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayutil/ArrayUtil2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/operation/BasicMath.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples4.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples5.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples6.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples7.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/IfElse.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/SampleSwitch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/MissingBreak.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/Switch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/SrtingSwitch.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrayutil/ArrayUtil10.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/ArrayExamples7.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/While.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/DoWhile.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/Menu.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/FindPrime.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/Sample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/ForVar.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/ForEach.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/ForEach2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapter5/NoChange.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/ForEach3.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/Search.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/Nested.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/BreakLoop.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/BreakLoop2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/BreakLoop3.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/Break.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/Continue.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/ContinueLabel.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/chapte5/Return.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task0.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task1_1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task5.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task5.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task1_1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task1_2.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/Task1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/FigurPainterTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/stack/StackTest1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/stack/StackTest1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/CharArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hometask/CharArrayTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/stack/StackTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/homework/dynamicArray/DynamicAraryTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/homework/dynamicArray/DynamicAraryTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example4/OverLoadCons.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example5/CallByValue.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example5/CallByValue.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/Recursion.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example7return/Hjkj.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example1/OverLoadTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example6/PassObjRe.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/Recursion2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/Recursion2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/Recursion2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/Recursion2.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/RecTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/RecTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example8rekursia/twoexamplerekuria/RecTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example10static/UseStatic.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/homework/BraceChekerTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/example4massiv/VarArgs.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/example4massiv/VarArgsTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/StudentTest.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/StudentTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/DynamicArrayForBook.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8examples/example7abstract/Figure.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/Student.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/Lesson.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8examples/example3super/DemoSuper.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8examples/example3super/BoxWeight.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter9/examples/mypack/mm/TestBalance.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter10/MethNesTry6.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example3/Stats.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example4/Stats.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example4/Stats.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example4/Stats.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example4/Stats.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter14/example4/Stats.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example6/Callme.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter11/example9/Q.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter6/homework/dynamicArray/DynamicArray.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/homework/BraceCheker.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/homework/BraceCheker.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkStack/BraceChecker.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/bubblesort/Bubblesort.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interview/bubblesort/Bubblesort1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/chapter7/examples/example10static/UseStatic.java</url>
+          <line>3</line>
+          <properties field="a" class="chapter7.examples.example10static.UseStatic" />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homeworkexample/Student.java</url>
+          <line>3</line>
+          <properties field="name" class="chapter7continue.homeworkexample.Student" />
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/chapter7continue/homework/library/educationCenter/LessonStorage.java</url>
+          <line>3</line>
+          <properties field="lessons" class="chapter7continue.homework.library.educationCenter.LessonStorage" />
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/chapter14/example3/Stats.java</url>
+          <line>5</line>
+          <properties field="nums" class="chapter14.example3.Stats" />
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
